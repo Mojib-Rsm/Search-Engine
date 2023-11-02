@@ -3,7 +3,7 @@ Custom Search Engine Like Google!
 
 
 
-3# How to use this repo?
+## How to use this repo?
 
 Clone the repository first 'git clone' https://github.com/Mojib-Rsm/Search-Engine.git
 
